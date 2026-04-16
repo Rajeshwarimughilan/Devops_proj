@@ -73,3 +73,5 @@ Create PR on GitHub targeting `main`, assign reviewer(s), and merge after approv
 
 ## Next Action
 Follow `docs/WORKFLOW.md` to configure branch protection and run the end-to-end demo.
+
+Workflow check trigger update.
