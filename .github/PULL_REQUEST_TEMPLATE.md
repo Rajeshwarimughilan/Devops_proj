@@ -2,7 +2,7 @@
 Describe what this PR changes.
 
 ## Linked Issue
-Closes #
+Closes #<issue-number>
 
 ## Type of Change
 - [ ] Feature
