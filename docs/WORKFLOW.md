@@ -78,3 +78,10 @@ This creates clear evidence of collaborative workflow.
 - PR list showing review/approval/merge
 - Issues list with status and labels
 - This workflow documentation
+
+## 7. Task Issue Closure Example
+If the task issue is `#2`, open a small docs PR and include the line below in the PR description:
+
+`Closes #2`
+
+When the PR is merged into `main`, GitHub automatically closes issue `#2`.
